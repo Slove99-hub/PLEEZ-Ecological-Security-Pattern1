@@ -12,8 +12,6 @@ The study integrates ecosystem service assessment, Zonation, morphological spati
  Repository Contents
 
 - Code/: Python scripts for XGBoost sample extraction, model training, and resistance surface prediction.
-- xgb/: Ecological resistance surfaces for the four study years.
-- Sources/: Ecological source layers for the four study years.
 
  Data Sources
 

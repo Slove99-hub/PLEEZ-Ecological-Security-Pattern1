@@ -16,7 +16,7 @@ The study integrates ecosystem service assessment, Zonation, morphological spati
 
  Data Sources
 
-The original geospatial datasets were obtained from their respective data providers. Detailed information on data sources and spatial resolutions is provided in Table 1 of the associated manuscript.
+The original geospatial datasets were obtained from publicly accessible databases and documented data providers. Detailed information on data sources and spatial resolutions is provided in Table 1 of the associated manuscript.
 
  XGBoost Model
 

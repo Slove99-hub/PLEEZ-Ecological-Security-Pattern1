@@ -12,6 +12,7 @@ The study integrates ecosystem service assessment, Zonation, morphological spati
  Repository Contents
 
 - Code/: Python scripts for XGBoost sample extraction, model training, and resistance surface prediction.
+- Training samples: XGBoost training sample datasets for 2000, 2010, 2020, and 2023.
 
  Data Sources
 
@@ -22,8 +23,6 @@ The original geospatial datasets were obtained from publicly accessible database
 Seven environmental predictors were used: elevation, slope, distance to roads, distance to rivers, NDVI, population density, and nighttime light.
 
 For each study year, 20,000 samples were selected from the low- and high-resistance classes, with 10,000 samples per class. The data were divided into training (70%) and testing (30%) subsets using stratified random sampling.
-
-The model configuration and preprocessing settings are documented in Supplementary Materials, Section S6.2 and Table S9.
 
  Code Usage
 
